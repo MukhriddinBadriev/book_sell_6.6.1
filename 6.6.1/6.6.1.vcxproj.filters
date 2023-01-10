@@ -18,8 +18,10 @@
     <ClCompile Include="6.6.1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Source.cpp">
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Classes.h">
       <Filter>Исходные файлы</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>
